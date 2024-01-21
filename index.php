@@ -165,10 +165,10 @@
               <div class="card-info">
                 <h6 class="color-brand-1 mb-10">Global branch</h6>
                 <p class="font-xs color-grey-500">Contact us to open our branches globally.<br>
-              <a href="mailto:" class="color-success">
-              connect@stuttie.pk
-              </a>
-              </p>
+                  <a href="mailto:" class="color-success">
+                    connect@stuttie.pk
+                  </a>
+                </p>
               </div>
             </div>
           </div>
