@@ -7,8 +7,6 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="msapplication-TileColor" content="#0E0E0E">
   <meta name="template-color" content="#0E0E0E">
-  <meta name="description" content="Index page">
-  <meta name="keywords" content="index, page">
   <meta name="author" content="">
   <link rel="shortcut icon" type="image/x-icon" href="assets/imgs/template/favicon.svg">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css" integrity="sha512-dPXYcDub/aeb08c63jRq/k6GaKccl256JQy/AnOq7CAnEZ9FzSL9wSbcZkMp4R26vBsMLFYH4kQ67/bbV8XaCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
