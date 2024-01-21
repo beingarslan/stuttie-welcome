@@ -737,17 +737,18 @@ a:hover {
   text-transform: uppercase;
 }
 .box-count.box-count-square .deals-countdown .countdown-amount {
-  background-color: rgb(26, 197, 251);
-  border: 1px solid #ffffff;
+  background-color: #fff4e0;
+  border: 1px solid #ffe7bb;
   border-radius: 4px;
-  color: #ffffff;
+  color: #5d596c;
   box-shadow: 0px 0px 20px 0px rgba(14, 41, 50, 0.17);
   padding: 10px 0px;
   width: 78px;
   height: 80px;
   display: inline-block;
   margin-bottom: 5px;
-  font-size: 32px !important;
+  font-size: 2.2rem !important;
+  font-weight: 700 !important;
   line-height: 55px !important;
 }
 
@@ -918,9 +919,9 @@ body {
 }
 .btn.btn-tag {
   padding: 6px 10px 6px 11px;
-  background: rgb(26, 197, 251);
+  background: #E0F1F4;
   border-radius: 4px;
-  color: #ffffff;
+  color: #000000;
   font-size: 12px;
   line-height: 12px;
   font-weight: 700;
@@ -3663,10 +3664,11 @@ body {
   background-color: #024430;
 }
 #scrollUp i {
-  display: block;
+  display: none;
   line-height: 56px !important;
   font-size: 20px;
   color: #fff;
+  
 }
 #scrollUp:hover {
   transform: translateY(-3px);

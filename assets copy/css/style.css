@@ -737,7 +737,7 @@ a:hover {
   text-transform: uppercase;
 }
 .box-count.box-count-square .deals-countdown .countdown-amount {
-  background-color: rgb(26, 197, 251);
+  background-color: #fff4e0;
   border: 1px solid #ffffff;
   border-radius: 4px;
   color: #ffffff;
@@ -918,7 +918,7 @@ body {
 }
 .btn.btn-tag {
   padding: 6px 10px 6px 11px;
-  background: rgb(26, 197, 251);
+  background: #fff4e0;
   border-radius: 4px;
   color: #ffffff;
   font-size: 12px;
