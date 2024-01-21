@@ -34,9 +34,6 @@
       </div>
     </div>
   </header>
-
-
-
   <main class="main">
     <section class="section mt-90">
       <div class="container">
