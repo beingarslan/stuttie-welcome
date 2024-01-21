@@ -88,9 +88,9 @@
 
             </div>
             <p class="font-md color-grey-500 wow animate__animated animate__fadeIn" data-wow-delay=".0s">
-              Are you a Tutor?
+              Are you a tutor of Math and Science?
               <br class="d-none d-lg-block">
-              and wants to teach as freelancer?
+              Do you want to be a Freelancer?
             </p>
             <div class="row">
               <div class="col-lg-3">
@@ -152,7 +152,7 @@
               </div>
               <div class="card-info">
                 <h6 class="color-brand-1 mb-10">Bussiness Department</h6>
-                <p class="font-xs color-grey-500">Contact the sales department about cooperation projects<br>(+01) 306
+                <p class="font-xs color-grey-500">Contact the sales department about cooperation projects<br>(+92) 306
                   8886763</p>
               </div>
             </div>
@@ -175,15 +175,6 @@
     </section>
   </main>
   <footer class=" mt-20"> </footer>
-  <script src="assets/js/vendors/jquery-3.6.0.min.js"></script>
-  <script src="assets/js/vendors/wow.js"></script>
-  <!-- <script src="assets/js/vendors/scrollup.js"></script> -->
-  <!-- Count down-->
-  <script src="assets/js/vendors/counterup.js"></script>
-  <script src="assets/js/vendors/jquery.countdown.min.js"></script>
-  <!-- Count down-->
-  <script src="assets/js/main.js?v=5.0.0"></script>
-
   <script>
     // Set the target date
     var targetDate = new Date("2024-02-15T00:00:00").getTime();
